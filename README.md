@@ -1,2 +1,2 @@
-# coincollision2ndattempt
-2nd attempt on turning this in
+# JSPlatformer
+JS Platformer for DIG 3480C
